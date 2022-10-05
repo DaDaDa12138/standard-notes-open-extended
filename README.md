@@ -3,13 +3,9 @@
 A Free Open Source Standard Notes Extensions Repository Hosted via Github Pages.
 
 # Use 
-Add https://kyleburke.net/standard-notes-open-extended or https://raw.githubusercontent.com/kylejbrk/standard-notes-open-extended/gh-pages/index.json as your Extended Activation Code, and click **Submit Code**. 
+Go to https://github.com/kylejbrk/standard-notes-open-extended/tree/gh-pages#readme to view the list of available extensions.
 
-_Note this currently can only be activated on the Desktop Application_
-
-<p align="center">
-	<img alt="Standard Notes Extension Repository Activation" src="https://github.com/kylejbrk/standard-notes-open-extended/blob/master/assets/activation.png?raw=true" width="80%" />
-</p>
+Simply copy the url for the desired extension, and past it into _Settings -> General -> Advanced Options -> Install External Package_ and then click _Install_
 
 # Features
 - A repository containing official Standard Notes themes and components  
@@ -22,7 +18,6 @@ This project is intended to be used with Github Pages and Github actions.
 - Fork the Repo
 - Let the action generate via the build files (this may require deleting and recreating the .github/workflows folder)
 - Make sure the gh-pages branch is set as your github page
-- Add `https://raw.githubusercontent.com/{YOUR USERNAME HERE}/standard-notes-open-extended/gh-pages/index.json` as your Extended Activation Code
 - _Optional_ If you are using a custom domain, make an enviornment variable called CUSTOM_DOMAIN with your endpoint.
 
 # Acknowledgements
